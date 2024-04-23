@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/MH-WebDev/order-summary-component](https://github.com/MH-WebDev/order-summary-component)
-- Live Site URL: [https://mh-webdev.github.io/order-summary-component/](https://mh-webdev.github.io/order-summary-component/)
+- Solution URL: [https://github.com/MH-WebDev/order-summary-component](https://github.com/MH-WebDev/Order-Summary-Component)
+- Live Site URL: [https://mh-webdev.github.io/order-summary-component/](https://mh-webdev.github.io/Order-Summary-Component/)
 
 ## My process
 
