@@ -199,8 +199,8 @@ img,video{
         --tw-bg-opacity:1;
         background-color:rgb(255 255 255/var(--tw-bg-opacity))
     }
-    .bg-background-mobile{background-image:url(./images/pattern-background-mobile.svg)}
-    .bg-header-background{background-image:url(./images/illustration-hero.svg)}
+    .bg-background-mobile{background-image:url(../images/pattern-background-mobile.svg)}
+    .bg-header-background{background-image:url(../images/illustration-hero.svg)}
     .bg-contain{background-size:contain}
     .bg-cover{background-size:cover}
     .bg-top{background-position:top}
@@ -250,5 +250,5 @@ img,video{
     .hover\:no-underline:hover{text-decoration-line:none}
     @media (min-width:640px){
         .sm\:w-\[24\.4rem\]{width:24.4rem}
-        .sm\:bg-background-desktop{background-image:url(./images/pattern-background-desktop.svg)}
+        .sm\:bg-background-desktop{background-image:url(../images/pattern-background-desktop.svg)}
     }
